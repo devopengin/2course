@@ -1,0 +1,14 @@
+D:\Лабораторные\ООП\9 лаба\Lab09\bin\Debug\net6.0\Lab09.exe
+D:\Лабораторные\ООП\9 лаба\Lab09\bin\Debug\net6.0\Lab09.deps.json
+D:\Лабораторные\ООП\9 лаба\Lab09\bin\Debug\net6.0\Lab09.runtimeconfig.json
+D:\Лабораторные\ООП\9 лаба\Lab09\bin\Debug\net6.0\Lab09.dll
+D:\Лабораторные\ООП\9 лаба\Lab09\bin\Debug\net6.0\Lab09.pdb
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\Lab09.AssemblyInfoInputs.cache
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\Lab09.AssemblyInfo.cs
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\Lab09.csproj.CoreCompileInputs.cache
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\Lab09.dll
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\refint\Lab09.dll
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\Lab09.pdb
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\Lab09.genruntimeconfig.cache
+D:\Лабораторные\ООП\9 лаба\Lab09\obj\Debug\net6.0\ref\Lab09.dll

@@ -1,0 +1,14 @@
+D:\Лабораторные\ООП\11 лаба\Lab11\bin\Debug\net6.0\Lab11.exe
+D:\Лабораторные\ООП\11 лаба\Lab11\bin\Debug\net6.0\Lab11.deps.json
+D:\Лабораторные\ООП\11 лаба\Lab11\bin\Debug\net6.0\Lab11.runtimeconfig.json
+D:\Лабораторные\ООП\11 лаба\Lab11\bin\Debug\net6.0\Lab11.dll
+D:\Лабораторные\ООП\11 лаба\Lab11\bin\Debug\net6.0\Lab11.pdb
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfoInputs.cache
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfo.cs
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\Lab11.csproj.CoreCompileInputs.cache
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\Lab11.dll
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\refint\Lab11.dll
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\Lab11.pdb
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\Lab11.genruntimeconfig.cache
+D:\Лабораторные\ООП\11 лаба\Lab11\obj\Debug\net6.0\ref\Lab11.dll
