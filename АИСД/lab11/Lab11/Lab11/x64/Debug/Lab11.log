@@ -1,0 +1,3 @@
+﻿  lab11.cpp
+d:\Лабораторные\АИСД\lab11\Lab11\lab11.cpp(53,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab11.vcxproj -> D:\Лабораторные\АИСД\lab11\Lab11\x64\Debug\Lab11.exe
