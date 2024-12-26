@@ -1,0 +1,17 @@
+D:\Лабораторные\ООП\7 лаба\Lab07\bin\Debug\net6.0\Lab07.exe
+D:\Лабораторные\ООП\7 лаба\Lab07\bin\Debug\net6.0\Lab07.deps.json
+D:\Лабораторные\ООП\7 лаба\Lab07\bin\Debug\net6.0\Lab07.runtimeconfig.json
+D:\Лабораторные\ООП\7 лаба\Lab07\bin\Debug\net6.0\Lab07.dll
+D:\Лабораторные\ООП\7 лаба\Lab07\bin\Debug\net6.0\Lab07.pdb
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.AssemblyInfoInputs.cache
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.AssemblyInfo.cs
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.csproj.CoreCompileInputs.cache
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.dll
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\refint\Lab07.dll
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.pdb
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.genruntimeconfig.cache
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\ref\Lab07.dll
+D:\Лабораторные\ООП\7 лаба\Lab07\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.csproj.AssemblyReference.cache
+D:\Лабораторные\ООП\7 лаба\Lab07\obj\Debug\net6.0\Lab07.csproj.CopyComplete
