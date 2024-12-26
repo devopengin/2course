@@ -1,0 +1,14 @@
+d:\Лабораторные\ООП\14 лаба\Lab14\bin\Debug\net8.0\Lab14.exe
+D:\Лабораторные\ООП\14 лаба\Lab14\bin\Debug\net8.0\Lab14.deps.json
+D:\Лабораторные\ООП\14 лаба\Lab14\bin\Debug\net8.0\Lab14.runtimeconfig.json
+d:\Лабораторные\ООП\14 лаба\Lab14\bin\Debug\net8.0\Lab14.dll
+d:\Лабораторные\ООП\14 лаба\Lab14\bin\Debug\net8.0\Lab14.pdb
+d:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\Lab14.GeneratedMSBuildEditorConfig.editorconfig
+d:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\Lab14.AssemblyInfoInputs.cache
+d:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\Lab14.AssemblyInfo.cs
+d:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\Lab14.csproj.CoreCompileInputs.cache
+d:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\Lab14.dll
+d:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\refint\Lab14.dll
+d:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\Lab14.pdb
+D:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\Lab14.genruntimeconfig.cache
+D:\Лабораторные\ООП\14 лаба\Lab14\obj\Debug\net8.0\ref\Lab14.dll
