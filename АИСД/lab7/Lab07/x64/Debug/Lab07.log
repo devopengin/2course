@@ -1,0 +1,26 @@
+﻿Сборка начата 27.11.2024 20:54:45.
+Уровень детализации журнала: Normal.     1>Проект "D:\Лабораторные\АИСД\lab7\Lab07\Lab07.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\Lab07.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\Программы\visual studio 2022\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Lab07.cpp
+         Lab07.cpp
+     1>D:\Лабораторные\АИСД\lab7\Lab07\Lab07.cpp(55,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         D:\Программы\visual studio 2022\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Лабораторные\АИСД\lab7\Lab07\x64\Debug\Lab07.exe" /INCREMENTAL /ILK:"x64\Debug\Lab07.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Лабораторные\АИСД\lab7\Lab07\x64\Debug\Lab07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Лабораторные\АИСД\lab7\Lab07\x64\Debug\Lab07.lib" /MACHINE:X64 x64\Debug\Lab07.obj
+         Lab07.vcxproj -> D:\Лабораторные\АИСД\lab7\Lab07\x64\Debug\Lab07.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab07.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab07.tlog\Lab07.lastbuildstate".
+     1>Сборка проекта "D:\Лабораторные\АИСД\lab7\Lab07\Lab07.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Лабораторные\АИСД\lab7\Lab07\Lab07.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Лабораторные\АИСД\lab7\Lab07\Lab07.cpp(55,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:02.17
