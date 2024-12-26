@@ -1,0 +1,14 @@
+D:\Лабораторные\ооп\3 лаба\Lab03\bin\Debug\net6.0\Lab03.exe
+D:\Лабораторные\ооп\3 лаба\Lab03\bin\Debug\net6.0\Lab03.deps.json
+D:\Лабораторные\ооп\3 лаба\Lab03\bin\Debug\net6.0\Lab03.runtimeconfig.json
+D:\Лабораторные\ооп\3 лаба\Lab03\bin\Debug\net6.0\Lab03.dll
+D:\Лабораторные\ооп\3 лаба\Lab03\bin\Debug\net6.0\Lab03.pdb
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\Lab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\Lab03.AssemblyInfoInputs.cache
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\Lab03.AssemblyInfo.cs
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\Lab03.csproj.CoreCompileInputs.cache
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\Lab03.dll
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\refint\Lab03.dll
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\Lab03.pdb
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\Lab03.genruntimeconfig.cache
+D:\Лабораторные\ооп\3 лаба\Lab03\obj\Debug\net6.0\ref\Lab03.dll

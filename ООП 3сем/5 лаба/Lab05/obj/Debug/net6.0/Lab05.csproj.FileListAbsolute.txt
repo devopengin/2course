@@ -1,0 +1,14 @@
+D:\Лабораторные\ООП\5 лаба\Lab05\bin\Debug\net6.0\Lab05.exe
+D:\Лабораторные\ООП\5 лаба\Lab05\bin\Debug\net6.0\Lab05.deps.json
+D:\Лабораторные\ООП\5 лаба\Lab05\bin\Debug\net6.0\Lab05.runtimeconfig.json
+D:\Лабораторные\ООП\5 лаба\Lab05\bin\Debug\net6.0\Lab05.dll
+D:\Лабораторные\ООП\5 лаба\Lab05\bin\Debug\net6.0\Lab05.pdb
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\Lab05.AssemblyInfoInputs.cache
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\Lab05.AssemblyInfo.cs
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\Lab05.csproj.CoreCompileInputs.cache
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\Lab05.dll
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\refint\Lab05.dll
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\Lab05.pdb
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\Lab05.genruntimeconfig.cache
+D:\Лабораторные\ООП\5 лаба\Lab05\obj\Debug\net6.0\ref\Lab05.dll
