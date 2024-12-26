@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOcean xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ocean NameOfEntity="Тихий океан">
+    <Cost>10000</Cost>
+    <Deepth>10994</Deepth>
+  </Ocean>
+  <Ocean NameOfEntity="fgdgfdg">
+    <Cost>23234</Cost>
+    <Deepth>2132</Deepth>
+  </Ocean>
+  <Ocean NameOfEntity="dfgdgdfgddgf">
+    <Cost>23232</Cost>
+    <Deepth>132</Deepth>
+  </Ocean>
+  <Ocean NameOfEntity="gddfgfdg">
+    <Cost>33434</Cost>
+    <Deepth>13</Deepth>
+  </Ocean>
+</ArrayOfOcean>

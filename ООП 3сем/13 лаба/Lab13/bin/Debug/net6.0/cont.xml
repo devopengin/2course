@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Continent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" NameOfEntity="dfggf">
+  <CostContinent>100000</CostContinent>
+  <ocean1 NameOfEntity="Ocean1">
+    <Cost>323</Cost>
+    <Deepth>10000</Deepth>
+  </ocean1>
+  <Area>34343</Area>
+</Continent>

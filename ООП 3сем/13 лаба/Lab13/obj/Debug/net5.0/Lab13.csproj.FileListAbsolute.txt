@@ -1,0 +1,4 @@
+D:\Лабораторные\ООП\13 лаба\Lab13\obj\Debug\net5.0\Lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\ООП\13 лаба\Lab13\obj\Debug\net5.0\Lab13.AssemblyInfoInputs.cache
+D:\Лабораторные\ООП\13 лаба\Lab13\obj\Debug\net5.0\Lab13.AssemblyInfo.cs
+D:\Лабораторные\ООП\13 лаба\Lab13\obj\Debug\net5.0\Lab13.csproj.CoreCompileInputs.cache
