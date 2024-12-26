@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-container">
+        <h1>Список дел</h1>
+        <div class="task-input">
+            <input type="text" id="task-input" placeholder="Введите название задачи">
+            <button id="add-task-btn">Добавить</button>
+        </div>
+        <div class="filters">
+            <button id="filter-all">Показать все</button>
+            <button id="filter-completed">Показать выполненные</button>
+            <button id="filter-pending">Показать не выполненные</button>
+        </div>
+        <ul id="task-list"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
