@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+using System;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Lab15
@@ -11,12 +9,10 @@ namespace Lab15
     {
         public static void SecondTask()
         {
-            CancellationTokenSource tokenSource = new CancellationTokenSource();
-            var token = tokenSource.Token;
+            CancellationTokenSource cancelTokenSource = new CancellationTokenSource();
+            CancellationToken token = cancelTokenSource.Token;
 
-            Stopwatch stopWatch = new();
             int size = 100000000;
-
             int[] vector = new int[size];
             Random random = new();
             for (int i = 0; i < size; i++)
@@ -26,30 +22,39 @@ namespace Lab15
 
             const int mult = 9;
 
-            Task task = new(() =>
+            void MultiplyArray()
             {
                 for (int i = 0; i < size; i++)
                 {
+                    if (token.IsCancellationRequested)
+                    {
+                        Console.WriteLine("Операция прервана внутри цикла");
+                        return;
+                    }
+
                     vector[i] *= mult;
+
+                    if (i % 100000 == 0)
+                    {
+                        Console.WriteLine($"Обработано {i} элементов");
+                        Thread.Sleep(1);
+                    }
                 }
-            }, token);
 
-            Console.WriteLine($"Статус до запуска: {task.Status}");
-            
+                Console.WriteLine("Задача завершена успешно");
+            }
 
-            stopWatch.Start();
+            Task task = new Task(MultiplyArray, token);
+
+            Console.WriteLine("Начало выполнения");
             task.Start();
 
-            Console.WriteLine($"task id: {task.Id}");
-            Console.WriteLine($"task is completed: {task.IsCompleted}");
-            Console.WriteLine($"Статус после запуска: {task.Status}");
-            tokenSource.Cancel();
+            Thread.Sleep(50);
+            cancelTokenSource.Cancel();
+
             task.Wait();
-            
-            stopWatch.Stop();
 
-            Console.WriteLine($"Время выполнения задачи: {stopWatch.ElapsedMilliseconds} миллисекунд");
-
+            Console.WriteLine($"Статус задачи: {task.Status}");
         }
     }
 }
